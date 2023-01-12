@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm intrested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat(Wrr0722_)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/anuraghazra/github-readme-stats)
+[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/anuraghazra/github-readme-stats)
