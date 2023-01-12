@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ruirui-wang-study's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/ruirui-wang-study/github-readme-stats)
+
+- 🔭 I’m currently working on software defined network
+- 🌱 I’m currently learning golang, spatial and federal learning
+- 👯 I’m looking to collaborate on taurus study
+- 🤹‍♀️ I'm intrested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
+- 📫 How to reach me: WeChat(Wrr0722_)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/anuraghazra/github-readme-stats)
