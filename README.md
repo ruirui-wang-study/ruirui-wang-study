@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on software defined network
 - 🌱 I’m currently learning golang, spatial and federal learning
-- 👯 I’m looking to collaborate on taurus study
+- 👯 I’m looking to collaborate on programmable dataplane study
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
-- 📫 How to reach me: WeChat@Wrr0722_
+- 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~）
 
 <!-- [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/anuraghazra/github-readme-stats) -->
