@@ -15,19 +15,100 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on software defined network
+<!-- - 🔭 I’m currently working on software defined network
 - 🌱 I’m currently learning golang, spatial and federal learning
 - 👯 I’m looking to collaborate on programmable dataplane study
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
-- 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~）
+- 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <div align="center">Jasmine's GitHub stats <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&show_icons=true&theme=cobalt" /> </div> -->
+### Hey 👋, I'm Jasmine wan.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruirui-wang-study&theme=radical&mode=weekly)](https://git.io/streak-stats)
+<a href="https://medium.com/">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+</a>
+<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
+  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+</a>
+<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://github.com/yzp-99/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+</a>
+<a href="https://mail.google.com/ ">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ruirui-wang-study&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<br />
+<br />
 
-<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ruirui-wang-study&theme=onedark" /> </div> -->
+<!-- - I am a **Programming rookie** 
+- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+- I also like **literature, reading and writing.** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- and I also came into contact with **programming**.
+- Although I was **not interested** in it at the beginning,
+- **luckily I slowly fell in love with it. ❤️** -->
 
-<!-- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span> -->
+<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
+
+**Talking about Personal Stuffs:**
+
+- 👨‍🏛 I am currently a student of **ECNU**.
+- 💻 Major is **Software Engineering**.
+- 🌱 I'm currently learning **Golang and SDN dataplane programming**. 
+- 🤔 My hobbies are **🎤singing, 📸photograph, 🎸guitar and 🎨painting**.
+<!-- - 💼 I am an **obsessive-compulsive disorder**. -->
+- 💬 If you have any questions, **just ask me**.
+- This is my email: **@gmail.com**.
+
+
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+
+**Technology being learned**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+
+**Favorite sites**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+
+
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+
+```text
+Python   19 mins         █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
