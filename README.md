@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <br>
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280">
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" />
-
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> -->
+![Camellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
   
 
 ---
