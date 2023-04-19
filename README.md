@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
-<a href="https://blog.csdn.net/qq_40563761/ ">
+<!-- <a href="https://blog.csdn.net/qq_40563761/ ">
   <img align="left" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
-</a>
+</a> -->
 <br>
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280">
 
