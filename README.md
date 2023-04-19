@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-### Hey 👋, I'm Jasmine wang!
+### Hey 👋, I'm Jasmine wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
 <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img align="left" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
 </a>
 <br>
-<img align="right" src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" data-canonical-src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" style="max-width: 60%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280">
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" />
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" /> -->
 
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
 - 🏛 I am currently a student of **ECNU**.
 - 💻 Major is **Software Engineering**.
