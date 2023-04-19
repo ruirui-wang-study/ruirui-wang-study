@@ -137,3 +137,4 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 <!-- 📊 **My recent programming status:**
  -->
 
+Thanks to <a href="https://github.com/Jackyu-1999">Jack yu</a>,<a href="https://github.com/zhicheng-ning">逝不等琴生</a>,and <a href="https://github.com/Thaiane">Thaiane Braga</a> for their amazing ideas!
