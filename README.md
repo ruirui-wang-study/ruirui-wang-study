@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-### Hey 👋, I'm Jasmine wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hey 👋, I'm Camellia wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
 <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
@@ -132,7 +132,7 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 
 ---
   
-[![Jasmine's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruirui-wang-study&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Camellia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruirui-wang-study&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 📊 **My recent programming status:**
  -->
