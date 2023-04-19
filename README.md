@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-### Hey 👋, I'm Camellia wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hey 👋, I'm Camellia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
 <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 **Master Degree** \
 [**ECNU**](https://www.ecnu.edu.cn/) • 2021/09/01 - Now \
-Skills: `P4`, `Python`,`Golang`, `SDN`\
+Skills: `P4`, `Python`,`Golang`, `SDN`
 <!-- Featured Projects: [X-Tiktok](https://github.com/X-Engineer/x-tiktok)/ [X-RPC](https://github.com/X-Engineer/x-rpc)/ [Data Power Platform](https://github.com/zhicheng-ning/data-power-platform) / [DPP Backend](https://github.com/zhicheng-ning/dpp-backend) -->
 <br/>
 
@@ -89,7 +89,7 @@ Skills: `P4`, `Python`,`Golang`, `SDN`\
 
 **Bachelor Degree** \
 [**AHNU**](http://www.ncu.edu.cn/) • 2015/09/01 - 2019/07/01 \
-Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Computer Composition`, `Computer Network`, `etc.` \
+Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Computer Composition`, `Computer Network`, `etc.` 
 <!-- Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary](https://github.com/zhicheng-ning/LearingSummary) -->
 <!-- <br> -->
 
