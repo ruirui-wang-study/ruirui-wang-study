@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Camellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=transparent&show_icons=true" alt="GitHub Stats" />
 </div>
 
 
