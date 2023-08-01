@@ -21,26 +21,26 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-### Hey 👋, I'm Camellia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hey 👋, I'm Camellia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" align="center">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
 <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
-  <img align="left" alt="Zhihu" width="22px" src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" />
+  <img align="center" alt="Zhihu" width="22px" src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" />
 </a>
 <a href="https://leetcode.cn/u/CBE6nMTHRa/">
-  <img align="left" alt="Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
+  <img align="center" alt="Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
 </a>
 <a href="https://github.com/ruirui-wang-study/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://space.bilibili.com/88943226">
-    <img align="left" alt="Github" width="22px" src="https://img.icons8.com/color/48/000000/bilibili.png"/>
+    <img align="center" alt="Github" width="22px" src="https://img.icons8.com/color/48/000000/bilibili.png"/>
 </a> 
 <a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <!-- <a href="https://blog.csdn.net/qq_40563761/ ">
-  <img align="left" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
+  <img align="center" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
 </a> -->
 <br>
 <!-- <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280"> -->
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> 
 ![Camellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=transparent&show_icons=true" alt="GitHub Stats" />
 </div>
 
