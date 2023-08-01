@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img align="left" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
 </a> -->
 <br>
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280">
+<!-- <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="280"> -->
 
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> -->
 ![Camellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
@@ -131,10 +131,10 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 
 
 ---
-  
+<!--
 [![Camellia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruirui-wang-study&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- 📊 **My recent programming status:**
+ 📊 **My recent programming status:**
  -->
 
 Thanks to <a href="https://github.com/Jackyu-1999">Jack yu</a>,<a href="https://github.com/zhicheng-ning">逝不等琴生</a>,and <a href="https://github.com/Thaiane">Thaiane Braga</a> for their amazing ideas!
