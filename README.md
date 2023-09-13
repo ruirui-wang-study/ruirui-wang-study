@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - 🤔 My hobbies are **🎤singing, 📸photograph, 🎸guitar and 🎨painting**.<!-- - 💼 I am an **obsessive-compulsive disorder**. -->
 <!-- - 💬 If you have any questions, **just ask me**. -->
 <!-- - This is my email: **jasminewr0722@gmail.com**. -->
-
+目前正在参加秋招，对我感兴趣的公司欢迎抛来橄榄枝~~~~~~
 ---
 
 ### 📗 Education Experience
