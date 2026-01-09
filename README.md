@@ -48,10 +48,12 @@ Here are some ideas to get you started:
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> 
 ![Camellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=transparent&show_icons=true" alt="GitHub Stats" />
-</div>
-
+</div> -->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
 ---
