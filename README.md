@@ -52,8 +52,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=transparent&show_icons=true" alt="GitHub Stats" />
 </div> -->
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
 ---
