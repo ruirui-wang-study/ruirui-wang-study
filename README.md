@@ -89,7 +89,7 @@ Skills: `P4`, `Python`,`Golang`, `SDN`
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="AHNU" src="https://www.shanghairanking.cn/_uni/logo/34817561.png"/>](https://www.ahnu.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="AHNU" src="[https://www.shanghairanking.cn/_uni/logo/34817561.png](https://www.ahnu.edu.cn/ahsf2023/images/logo.png)"/>](https://www.ahnu.edu.cn/)
 
 **Bachelor Degree** \
 [**AHNU**](http://www.ncu.edu.cn/) • 2015/09/01 - 2019/07/01 \
@@ -107,20 +107,8 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
 
-
-**Technology being learned**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<!-- <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code> -->
 
 <!-- **Favorite sites**
 
