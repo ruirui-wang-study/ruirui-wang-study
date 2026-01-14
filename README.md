@@ -125,11 +125,11 @@ Skills: `Java`, `MySQL`,`Redis`, `Kafka`,`RocketMQ`,`Springboot`
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code> -->
 
 
----
+
 <!--
 [![Camellia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruirui-wang-study&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  📊 **My recent programming status:**
- -->
 
-Thanks to <a href="https://github.com/Jackyu-1999">Jack yu</a>,<a href="https://github.com/zhicheng-ning">逝不等琴生</a>,and <a href="https://github.com/Thaiane">Thaiane Braga</a> for their amazing ideas!
+
+Thanks to <a href="https://github.com/Jackyu-1999">Jack yu</a>,<a href="https://github.com/zhicheng-ning">逝不等琴生</a>,and <a href="https://github.com/Thaiane">Thaiane Braga</a> for their amazing ideas! -->
