@@ -86,7 +86,7 @@ Skills: `P4`, `Python`,`Golang`, `SDN`
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="AHNU" src="[https://www.shanghairanking.cn/_uni/logo/34817561.png](https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/%E5%AE%89%E5%BE%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD.JPG/250px-%E5%AE%89%E5%BE%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD.JPG)"/>](https://www.ahnu.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="AHNU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/%E5%AE%89%E5%BE%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD.JPG/250px-%E5%AE%89%E5%BE%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD.JPG"/>](https://www.ahnu.edu.cn/)
 
 **Bachelor Degree** \
 [**AHNU**](http://www.ncu.edu.cn/) • 2015/09/01 - 2019/07/01 \
