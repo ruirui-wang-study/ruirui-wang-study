@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 [<img align="left" height="94px" width="94px" alt="ECNU" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/East_China_Normal_University_logo.svg/1200px-East_China_Normal_University_logo.svg.png"/>](https://www.ecnu.edu.cn/)
 
 **Master Degree** \
-[**ECNU**](https://www.ecnu.edu.cn/) • 2021/09/01 - Now \
+[**ECNU**](https://www.ecnu.edu.cn/) • 2021/09/01 - 2024/06/01 \
 Skills: `P4`, `Python`,`Golang`, `SDN`
 <!-- Featured Projects: [X-Tiktok](https://github.com/X-Engineer/x-tiktok)/ [X-RPC](https://github.com/X-Engineer/x-rpc)/ [Data Power Platform](https://github.com/zhicheng-ning/data-power-platform) / [DPP Backend](https://github.com/zhicheng-ning/dpp-backend) -->
 <br/>
@@ -93,6 +93,13 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 <!-- Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary](https://github.com/zhicheng-ning/LearingSummary) -->
 <!-- <br> -->
 
+### 💼 Work Experience
+
+[<img align="left" height="94px" width="94px" alt="哈啰出行" src="https://m.hellobike.com/resource/helloyun/12399/hs3_c_header__logo.png"/>]([https://www.ecnu.edu.cn/](https://www.hello-inc.com/))
+
+**哈啰出行** \
+• 2024/05/01 - 2025/08/01 \
+Skills: `Java`, `MySQL`,`Redis`, `Kafka`,'RocketMQ','Springboot'
 
 <!-- **Languages and Tools** -->
 
