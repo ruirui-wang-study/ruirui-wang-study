@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> 
 ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
-<div align="center">
+<!-- <div align="center"> -->
   ![Stats](./profile/stats.svg)
-</div> 
+<!-- </div>  -->
 
 
 
