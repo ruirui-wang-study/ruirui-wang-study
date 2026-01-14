@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤹‍♀️ I'm interested in 🎤singing, 📸photograph, 🎸guitar and 🎨painting
 - 📫 How to reach me: WeChat@Wrr0722_(Please note your name in the application~） -->
 
-### Hey 👋, I'm Camellia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" align="center">
+### Hey 👋, I'm Re! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" align="center">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
 <!-- <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&count_private=true&show_icons=true&theme=dracula" /> 
 ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=transparent&show_icons=true" alt="GitHub Stats" />
-</div> -->
-![Rita's GitHub stats](./profile/stats.svg)
+<div align="center">
+  ![Rita's GitHub stats](./profile/stats.svg)
+
+</div> 
 
 
 
@@ -67,12 +67,12 @@ Here are some ideas to get you started:
 
 **Personal Stuffs:**
 
-- 🏛 I am currently a student of **ECNU**.
+- 💼 I am working in JT as a software engineer.
 - 💻 Major is **Software Engineering**.
-- 🌱 I'm currently learning **Golang and SDN dataplane programming**. 
+- 🌱 I'm currently learning **Golang，Python and LLM programming**. 
 - 🤔 My hobbies are **🎤singing, 📸photograph, 🎸guitar and 🎨painting**.<!-- - 💼 I am an **obsessive-compulsive disorder**. -->
-<!-- - 💬 If you have any questions, **just ask me**. -->
-<!-- - This is my email: **jasminewr0722@gmail.com**. -->
+- 💬 If you have any questions, **just ask me**. 
+- This is my email: **jasminewr0722@gmail.com**. 
 ---
 
 ### 📗 Education Experience
