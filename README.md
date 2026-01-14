@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![Rita's GitHub stats](./profile/stats.svg)
 
 
----
+<!-- --- -->
 
 
 
