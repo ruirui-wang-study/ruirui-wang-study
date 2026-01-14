@@ -54,9 +54,6 @@ Here are some ideas to get you started:
 ![Rita's GitHub stats](./profile/stats.svg)
 
 
-<!-- --- -->
-
-
 
 <!-- - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
@@ -97,7 +94,6 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 <!-- Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary](https://github.com/zhicheng-ning/LearingSummary) -->
 <!-- <br> -->
 
----
 
 <!-- **Languages and Tools** -->
 
