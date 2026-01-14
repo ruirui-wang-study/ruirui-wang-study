@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Hey 👋, I'm Camellia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" align="center">
 ![](https://komarev.com/ghpvc/?username=ruirui-wang-study&color=red)
 
-<a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
+<!-- <a href="https://www.zhihu.com/people/rui-rui-rui-rui-rui-72-28">
   <img align="center" alt="Zhihu" width="22px" src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" />
 </a>
 <a href="https://leetcode.cn/u/CBE6nMTHRa/">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a> 
 <a href="https://mail.google.com/ ">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+</a> -->
 <!-- <a href="https://blog.csdn.net/qq_40563761/ ">
   <img align="center" alt="CSDN" width="22px" src="https://img.icons8.com/material/48/000000/csdn.png" />
 </a> -->
