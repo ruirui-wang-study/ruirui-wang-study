@@ -93,13 +93,14 @@ Skills: `Data Structures and Algorithms`, `Operating System`, `Principles of Com
 <!-- Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary](https://github.com/zhicheng-ning/LearingSummary) -->
 <!-- <br> -->
 
+---
+
 ### 💼 Work Experience
 
-[<img align="left" height="94px" width="94px" alt="哈啰出行" src="https://m.hellobike.com/resource/helloyun/12399/hs3_c_header__logo.png"/>]([https://www.ecnu.edu.cn/](https://www.hello-inc.com/))
+[<img align="left" height="94px" width="94px" alt="哈啰出行" src="https://m.hellobike.com/resource/helloyun/12399/QlVPdUiSQd.png"/>]([https://www.ecnu.edu.cn/](https://www.hello-inc.com/))
 
-**哈啰出行** \
-• 2024/05/01 - 2025/08/01 \
-Skills: `Java`, `MySQL`,`Redis`, `Kafka`,'RocketMQ','Springboot'
+**哈啰出行** \2024/05/01 - 2025/08/01 \
+Skills: `Java`, `MySQL`,`Redis`, `Kafka`,`RocketMQ`,`Springboot`
 
 <!-- **Languages and Tools** -->
 
