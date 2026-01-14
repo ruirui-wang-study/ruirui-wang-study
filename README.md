@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruirui-wang-study&theme=dracula&show_icons=true)
 -->
 <div align="center">
-  ![Rita's GitHub stats](./profile/stats.svg)
-
+  ![Stats](./profile/stats.svg)
 </div> 
 
 
