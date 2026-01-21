@@ -62,16 +62,13 @@ Here are some ideas to get you started:
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️** -->
 
-<!-- <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" /> -->
+<!-- <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
 
-**Personal Stuffs:**
+**Personal Stuffs:** -->
 
 - 💼 I am working in JT as a software engineer.
-- 💻 Major is **Software Engineering**.
-- 🌱 I'm currently learning **Golang，Python and LLM programming**. 
 - 🤔 My hobbies are **🎤singing, 📸photograph, 🎸guitar and 🎨painting**.<!-- - 💼 I am an **obsessive-compulsive disorder**. -->
-- 💬 If you have any questions, **just ask me**. 
-- This is my email: **jasminewr0722@gmail.com**. 
+- 📫 How to reach me:  **jasminewr0722@gmail.com**. 
 ---
 
 ### 📗 Education Experience
